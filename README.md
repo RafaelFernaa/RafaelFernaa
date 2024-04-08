@@ -8,4 +8,4 @@ Olá! Eu sou o Rafael Fernandes✌🏻
 
 ## tornou-se aterradoramente claro que a nossa tecnologia ultrapassou a nossa humanidade.👾👀 Albert Einstein☝
 
-## Sou um entusiasta pelo mundo da tecnologia, e tenbjetivo de mudar a vida da minha famíliaho como o através da programação.💙
+## Sou um pequeno entusiasta pelo mundo da tecnologia, e tenho como objetivo de mudar a vida das pessoas através da programação.💙
