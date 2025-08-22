@@ -143,8 +143,8 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
 <br/>
 <br/>
 
-### 🤖 Estatísticas
 ### 📊 Estatísticas
+
 
 <p>
   <img 
