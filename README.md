@@ -145,7 +145,6 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
 
 ### 📊 Estatísticas
 
-
 <p>
   <img 
     align="left" 
@@ -163,9 +162,10 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
   />
 
 </p>
+
 0 commit comments
 Comments
 0
  (0)
 Please sign in to comment.
-Update README.md · RafaelFernaa/RafaelFernaa@a038228 · GitHub
+Update README.md · RafaelFernaa/RafaelFernaa · GitHub
