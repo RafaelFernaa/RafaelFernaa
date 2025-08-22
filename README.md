@@ -101,6 +101,8 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=RafaelFernaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+  <br>
+  <br>
   </a>
     <br>
      <br>
