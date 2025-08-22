@@ -3,6 +3,10 @@
 **`Desenvolvedor Frontend`**
 
 Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro com minha família no Rio Grande do Norte. Concluí meu ensino médio na escola 26 de Março; já fiz curso de informática básica. Atualmente, faço faculdade de BTI - Bacharelado em Tecnologia da Informação, na UFERSA. Curto muito tecnologia, aprecio músicas da década de 80 e 90, desenho e tenho mente aberta para aprender mais e mais.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style-for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafael_fernandes020)
+[![Gmail](https://img.shields.io/badge/Gmail-E4405F?style-for-the-badge&logo=Gmail&logoColor=white)](https://Gmail.com/josepatrickhotmail710@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-E4405F?style-for-the-badge&logo=WhatsApp&logoColor=white)](https://WhatsApp.com/+558499603084)
+
 <p align="left">
     <a href="https://www.youtube.com/@rafaelfernandes2242?sub_confirmation=1">
         <img 
