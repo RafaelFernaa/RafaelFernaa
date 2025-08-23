@@ -74,7 +74,7 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
     alt="GitHub"
     title="GitHub" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; background-color: white; border-radius: 50%;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 <img 
