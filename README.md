@@ -61,13 +61,13 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<img 
-  align="left" 
-  alt="CapCut" 
-  title="CapCut" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/88/e7/3d/88e73dd0-508a-1421-7ae1-f845a70d820e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png" 
+<img
+  align="left"
+  alt="YouCut"
+  title="YouCut"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://path-to-your-hosted-youcut-logo.png"
 />
 <img 
     align="left" 
