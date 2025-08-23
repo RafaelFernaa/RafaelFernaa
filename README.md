@@ -107,12 +107,10 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <br>
    
-<br>
-</p>
+![snake gif](https://github.com/RafaelFernaa/RafaelFernaa/blob/output/github-contribution-grid-snake.svg)
 
-0 commit comments
-Comments
-0
- (0)
-Please sign in to comment.
-Update README.md · RafaelFernaa/RafaelFernaa · GitHub
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=RafaelFernaa&repo=RafaelFernaa&theme=react)](https://github.com/RafaelFernaa/RafaelFernaa)
+
+
+
+
