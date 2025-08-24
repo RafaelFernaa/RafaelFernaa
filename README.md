@@ -8,20 +8,22 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
 <p align="left">
    <a href="https://www.youtube.com/@rafaelfernandes2242?sub_confirmation=1" target="_blank" rel="noopener noreferrer">
     <img 
-        alt="youtube subscribers" 
+        alt="Inscritos no YouTube" 
         title="Inscreva-se no meu canal" 
-        src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/@rafaelfernandes2242?color=%23E05D44&label=Inscritos&logo=youtube&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/@rafaelfernandes2242?color=%23CC5500&label=Inscritos&logo=youtube&logoColor=white&style=for-the-badge&labelColor=993300"
     />
 </a>
 
+<!-- Badge Visualizações YouTube -->
 <a href="https://www.youtube.com/@rafaelfernandes2242" target="_blank" rel="noopener noreferrer">
     <img 
-        alt="youtube views" 
-        title="Visualizações no YouTube" 
+        alt="Visualizações no YouTube" 
+        title="Visualizações no meu canal" 
         src="https://custom-icon-badges.demolab.com/youtube/channel/views/@rafaelfernandes2242?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
     />
 </a> 
 
+<!-- Badge Total de estrelas no GitHub -->
 <a href="https://github.com/RafaelFernaa?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
     <img 
         alt="Total de estrelas" 
@@ -30,6 +32,7 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
     />
 </a>
 
+<!-- Badge Seguidores no GitHub -->
 <a href="https://github.com/RafaelFernaa?tab=followers" target="_blank" rel="noopener noreferrer">
     <img 
         alt="Seguidores" 
