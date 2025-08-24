@@ -118,17 +118,20 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
 
 <!-- Estatísticas do GitHub -->
 <img 
-  align="left" 
   alt="GitHub Stats" 
   height="200" 
   style="padding-right: 10px;" 
   src="https://github-readme-stats.vercel.app/api?username=RafaelFernaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />
 
-<!-- GIF com margem superior -->
-<div style="margin-top: 60px;">
-  <img 
-    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-    alt="Animação"
-  />
-</div>
+<!-- Limpar o alinhamento à esquerda -->
+<div style="clear: both;"></div>
+
+<!-- Espaço extra -->
+<br><br><br>
+
+<!-- GIF abaixo com espaçamento -->
+<img 
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  alt="Animação"
+/>
