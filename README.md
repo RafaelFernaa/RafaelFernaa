@@ -124,13 +124,13 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
   src="https://github-readme-stats.vercel.app/api?username=RafaelFernaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />
 
-<!-- Limpar o alinhamento à esquerda -->
+<!-- Força o próximo conteúdo a ficar abaixo -->
 <div style="clear: both;"></div>
 
-<!-- Espaço extra -->
-<br><br><br>
+<!-- Espaçamento mais discreto -->
+<br>
 
-<!-- GIF abaixo com espaçamento -->
+<!-- GIF -->
 <img 
   src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
   alt="Animação"
