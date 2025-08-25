@@ -123,7 +123,7 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
   src="https://github-readme-stats.vercel.app/api?username=RafaelFernaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />
 <p align="center">
-  <img src="https://github.com/brunograna/brunograna/blob/main/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif?raw=true" 
+  <img src="https://github.com/RafaelFernaa/RafaelFernaa/blob/main/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif?raw=true" 
        alt="React GIF" width="250"/>
 </p>
 <img 
