@@ -127,6 +127,13 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
 <!-- Força o próximo conteúdo a ficar abaixo -->
 <div style="clear: both;"></div>
 
+<!-- Snake da Cobrinha -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
+</picture>
+
 <!-- Espaçamento mais discreto -->
 <br>
 
