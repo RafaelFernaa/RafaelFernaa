@@ -115,26 +115,6 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
 ---
 <br>
 <div align="left">
-
-Perfeito! O que você quer é que a segunda imagem (o gráfico) tenha um tema azul, igual ao da primeira imagem (tokyonight), mas evitando o tom rosa que o tokyonight às vezes inclui.
-
-Opções:
-
-A API do github-readme-activity-graph tem suporte para vários temas, mas nem todos são idênticos aos do github-readme-stats. No entanto, existem alguns temas com predominância de azul e sem rosa, que combinam bem com o tokyonight, como:
-
-tokyo-night
-
-github
-
-blue
-
-react
-
-vue
-
-Mas o mais próximo do que você descreve seria o tokyo-night (sem o rosa intenso), que é diferente de tokyonight.
-
-Versão ajustada:
 <!-- Estatísticas do GitHub -->
 <img 
   alt="GitHub Stats" 
