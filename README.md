@@ -132,6 +132,7 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
   <img src="https://github.com/RafaelFernaa/RafaelFernaa/blob/main/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif?raw=true" 
        alt="React GIF" width="250"/>
 </p>
+   <div align="left">
    <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" />
   <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" />
