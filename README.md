@@ -122,6 +122,12 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
   <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" />
   <img alt="pacman-animation" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" />
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/images/7e6d3e7e64ebf22db6b10966eb83a5f3/tenor.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://media.tenor.com/images/7e6d3e7e64ebf22db6b10966eb83a5f3/tenor.gif" />
+  <img alt="Itachi Sharingan" src="https://media.tenor.com/images/7e6d3e7e64ebf22db6b10966eb83a5f3/tenor.gif" />
+</picture>
     
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estatisticas </b>
 ---
