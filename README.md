@@ -153,6 +153,11 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
   <img alt="pacman-animation" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/view/itachi-uchiha-sharingan-naruto-gif-12830846" />
+  <source media="(prefers-color-scheme: light)" srcset="https://media.tenor.com/view/itachi-uchiha-sharingan-naruto-gif-12830846" />
+  <img alt="Itachi Sharingan" src="https://media.tenor.com/view/itachi-uchiha-sharingan-naruto-gif-12830846" />
+</picture>
 <!-- Espaçamento mais discreto -->
 <br>
 
