@@ -132,6 +132,11 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
   <img src="https://github.com/RafaelFernaa/RafaelFernaa/blob/main/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif?raw=true" 
        alt="React GIF" width="250"/>
 </p>
+   <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" />
+  <img alt="pacman-animation" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" />
+</picture>
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelFernaa&radius=16&theme=tokyo-night&area=true&order=5" 
   height="300" 
@@ -147,17 +152,6 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
   <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" />
-  <img alt="pacman-animation" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/view/itachi-uchiha-sharingan-naruto-gif-12830846" />
-  <source media="(prefers-color-scheme: light)" srcset="https://media.tenor.com/view/itachi-uchiha-sharingan-naruto-gif-12830846" />
-  <img alt="Itachi Sharingan" src="https://media.tenor.com/view/itachi-uchiha-sharingan-naruto-gif-12830846" />
-</picture>
 <!-- Espaçamento mais discreto -->
 <br>
 
