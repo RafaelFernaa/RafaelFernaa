@@ -117,6 +117,11 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
     <br>
      <br>
 <div align="left">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" />
+  <img alt="pacman-animation" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" />
+</picture>
     
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estatisticas </b>
 ---
@@ -132,12 +137,6 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
   <img src="https://github.com/RafaelFernaa/RafaelFernaa/blob/main/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif?raw=true" 
        alt="React GIF" width="250"/>
 </p>
-   <div align="left">
-   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" />
-  <img alt="pacman-animation" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" />
-</picture>
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelFernaa&radius=16&theme=tokyo-night&area=true&order=5" 
   height="300" 
