@@ -147,11 +147,6 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
   <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" />
-  <img alt="Itachi Uchiha GIF" src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" />
-</picture>
 <!-- Espaçamento mais discreto -->
 <br>
 
