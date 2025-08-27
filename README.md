@@ -147,6 +147,16 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
   <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
 </picture>
 
+<div class="pacman">
+  <div class="pacman-mouth"></div>
+  <div class="dots">
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+
 <!-- Espaçamento mais discreto -->
 <br>
 
