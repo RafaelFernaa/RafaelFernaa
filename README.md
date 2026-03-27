@@ -120,28 +120,19 @@ Me chamo Rafael Fernandes, tenho 21 anos e sou nascido em São Paulo, mas moro c
    
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estatisticas </b>
 ---
-<div align="center">
+<p align="center">
+  <img 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=RafaelFernaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+</p>
 
-  <!-- Estatísticas do GitHub -->
-  <p>
-    <img 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api?username=RafaelFernaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    />
-  </p>
-
-  <p>
-    <img 
-      src="https://github.com/RafaelFernaa/RafaelFernaa/blob/main/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif?raw=true" 
-      alt="React GIF" 
-      width="250"
-    />
-  </p>
-
-</div>
-
+<p align="center">
+  <img 
+    width="250"
+    src="https://github.com/RafaelFernaa/RafaelFernaa/blob/main/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif?raw=true" 
+  />
+</p>
 <!-- Snake da Cobrinha -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
